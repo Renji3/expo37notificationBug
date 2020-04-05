@@ -1,6 +1,7 @@
 # Steps to reproduce:
 - clone the repository
 - cd expo37notificationBug
+- npm install | yarn
 - expo start
 - start the app on the phone
 - close expo AND the app
