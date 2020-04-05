@@ -1,5 +1,5 @@
 # Steps to reproduce:
-- colone the repository
+- clone the repository
 - cd expo37notificationBug
 - expo start
 - start the app on the phone
